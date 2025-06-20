@@ -7,7 +7,7 @@ import plotly.express as px
 import os
 
 # --- 1. SET PAGE CONFIG (MUST BE FIRST STREAMLIT COMMAND) ---
-st.set_page_config(layout="wide", page_title="NovaForge Projects", page_icon="✨")
+st.set_page_config(layout="wide", page_title="FE!N", page_icon="✨")
 
 # --- 2. GLOBAL STYLES & GRADIENT BACKGROUND ---
 st.markdown("""
