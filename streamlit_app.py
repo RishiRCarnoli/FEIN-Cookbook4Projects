@@ -293,16 +293,16 @@ TESTIMONIALS = [
 
 def animated_search(): 
     with st.sidebar:
-        # App Name & Branding
+        
         st.markdown(f"""
             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
-                <h2 style="color: #8CFFB5; font-family: 'Space Grotesk', sans-serif; font-size: 2.2em;">NovaForge Projects</h2>
+                <h2 style="color: #8CFFB5; font-family: 'Space Grotesk', sans-serif; font-size: 2.2em;">FIEN 🥘</h2>
             </div>
             <p style="font-size: 0.8em; color: #BBBBBB; margin-top: -15px;">
-                <span style="font-weight: bold; color: #8CFFB5;">Empowering Innovation.</span>
+                <span style="font-weight: bold; color: #8CFFB5;">Cookbook for your las min review preps.</span>
             </p>
             <p style="font-size: 0.7em; color: #888888; text-align: right; margin-top: 20px;">
-                Made by <span style="color:#8CFFB5; font-weight:bold;">Ojas Singh</span><br>
+                Made by <span style="color:#8CFFB5; font-weight:bold;">Rishi (ojas)</span><br>
                 21BDS0187, VIT Vellore
             </p>
             <hr style="border-top: 1px dashed rgba(140, 255, 181, 0.3); margin: 20px 0;">
