@@ -296,7 +296,7 @@ def animated_search():
         
         st.markdown(f"""
             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
-                <h2 style="color: #8CFFB5; font-family: 'Space Grotesk', sans-serif; font-size: 2.2em;">FIEN 🥘</h2>
+                <h2 style="color: #8CFFB5; font-family: 'Space Grotesk', sans-serif; font-size: 2.2em;">FEIN 🥘</h2>
             </div>
             <p style="font-size: 0.8em; color: #BBBBBB; margin-top: -15px;">
                 <span style="font-weight: bold; color: #8CFFB5;">Cookbook for your las min review preps.</span>
