@@ -281,16 +281,17 @@ if 'project_display_limit' not in st.session_state:
 
 # --- Testimonials Data ---
 TESTIMONIALS = [
-    {"quote": "NovaForge Projects has revolutionized how I discover potential project ideas. The AI prompt generator is a game-changer!", "author": "Dr. Elara Vance, Senior ML Engineer"},
-    {"quote": "As a student, finding relevant projects was tough. This platform provides exactly what I need, tailored to my interests. The UI is sleek and intuitive.", "author": "Rohan Sharma, CSE Student"},
-    {"quote": "The project ideas are diverse and well-structured. A must-have tool for anyone looking to kickstart their computer science ventures.", "author": "Prof. Anya Petrova, University of Technology"},
-    {"quote": "I love the clean design and the hover effects on the cards! It feels truly professional.", "author": "Sara Khan, UI/UX Designer"}
+    {"quote": "Idk he just told to drop a review here, The AI prompt generator is a game-changer, helped me through typing arbitrage", "author": "Tanusha Aggarwal, CSE Core Student"},
+    {"quote": "As a student, finding relevant projects was tough. This platform provides exactly what I need, tailored to my interests. The UI is minimal, ty Ojas.", "author": "Rohan Bharadwaj, CSE Student"},
+    {"quote": "Thanks a lot cause clutched the project reviews last minute, hope profs don't find about this or am cooked 🤍", "author": "Anya Sharma, CSE with Bioinformatics"},
+    {"quote": "I love the clean design and minimal functionality, would be better if you add github repo links too 🙏🏼", "author": "Devika Singh, CSE Core Student"},
+    {"quote": "Bro isn't this your 13th app or something, 🤓 Rishi ftw fr", "author": "Shreya, CSE Core Student"}
 ]
 
 
-# --- 7. Main Page Functions (defined before they are called) ---
 
-def animated_search(): # Sidebar content
+
+def animated_search(): 
     with st.sidebar:
         # App Name & Branding
         st.markdown(f"""
