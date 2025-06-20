@@ -427,7 +427,7 @@ def display_project_cards(projects_to_render):
 
 def display_testimonials():
     st.markdown("<h2 style='color:#8CFFB5; text-align:center;'>What Our Users Say</h2>", unsafe_allow_html=True)
-    st.markdown("<p style='color:#BBBBBB; text-align:center; margin-bottom: 30px;'>Hear from students, researchers, and professionals who love NovaForge Projects.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color:#BBBBBB; text-align:center; margin-bottom: 30px;'>Hear from students who loved the Project Contents.</p>", unsafe_allow_html=True)
 
     cols = st.columns(len(TESTIMONIALS))
     for idx, testimonial in enumerate(TESTIMONIALS):
