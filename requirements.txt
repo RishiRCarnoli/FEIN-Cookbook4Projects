@@ -1,2 +1,9 @@
 streamlit
+pandas
+numpy
 plotly
+scikit-learn
+statsmodels
+scipy
+plotly_express
+streamlit_lottie
